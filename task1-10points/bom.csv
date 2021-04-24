@@ -1,0 +1,5 @@
+﻿Имя,Количество,Компонент
+"BATbat3, BATbat4, BATbat5, BATbat2, BATbat1, BATbat6, BATbat7, BATbat8, BATbat9, BATbat10",10," Батарея 9 В"
+"M1",1," Двигатель постоянного тока"
+"Metermulti",1,"Напряжение Мультиметр"
+"Rresistor",1,"0.1 kΩ Резистор"
