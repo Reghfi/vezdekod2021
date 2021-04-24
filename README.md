@@ -1,3 +1,3 @@
 ### vezdekod2021
 
-All the tasks were comleted using TinkerCAD
+All the tasks were completed using TinkerCAD
